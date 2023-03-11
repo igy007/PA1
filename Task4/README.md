@@ -21,17 +21,17 @@ Výstupem programu je reakce na každý vstup:
 
 Pokud je vstup neplatný, program to musí detekovat a zobrazit chybové hlášení. Chybové hlášení zobrazujte na standardní výstup (ne na chybový výstup). Za chybu při přidání přístupu považujte:
 
-    chybí id uživatele,
-    id není celé číslo,
-    id není v intervalu < 0 ; 99999 >, nebo
-    přístupů je více než 1000000.
+  -  chybí id uživatele,
+  -  id není celé číslo,
+  -  id není v intervalu < 0 ; 99999 >, nebo
+  -  přístupů je více než 1000000.
 
 Za chybu v dotazu považujte:
 
-    chybí informace from a to,
-    from / to nejsou celá čísla,
-    from je menší než 0,
-    to je větší nebo roven počtu dosud zaregistrovaných přístupů, nebo
-    from je větší než to.
+  -  chybí informace from a to,
+  -  from / to nejsou celá čísla,
+  -  from je menší než 0,
+  -  to je větší nebo roven počtu dosud zaregistrovaných přístupů, nebo
+  -  from je větší než to.
 
 Chybou je rovněž situace, kdy na vstupu není ani přidání přístupu ani dotaz.
