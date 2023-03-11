@@ -4,11 +4,7 @@ Evropská unie správně chápe, že energií je potřeba šetřit, ať to stoj�
 
 Hodiny zobrazují čas na sedmisegmentovém displeji. Čas je zobrazován ve 24 hodinovém formátu, tedy 00 00 00 až 23 59 59. Displej je mechanický, číslice je tvořena ze 7 segmentů, každý segment je buď světlý nebo tmavý obdélník. Pokud je nedochází ke změně daného segmentu, není potřeba dodávat žádnou energii. Naopak, změna tmavého segmentu na světlý nebo opačná stojí energii, pro jednoduchost předpokládáme 1J na změnu jednoho segmentu. Cifry na sedmisegmentovém displeji mají standardní tvar, tedy:
 
- -         -    -         -    -    -    -    -                                                                     
-| |    |    |    |  | |  |    |      |  | |  | |                                                                       
-           -    -    -    -    -         -    -                                                                     
-| |    |  |      |    |    |  | |    |  | |    |                                                                       
- -         -    -         -    -         -    -                                                                     
+<img>![digits](https://user-images.githubusercontent.com/47743251/224509361-a02633aa-47f3-4c99-a35c-18cedbcbdea3.png)</img>                                                               
 
 Naše funkce dostane parametrem dva časové údaje - počátek a konec časového intervalu. Počátek i konec je dán rokem, měsícem, dnem, hodinou a minutou. Funkce spočítá, kolik energie hodiny za tuto dobu spotřebují.
 
