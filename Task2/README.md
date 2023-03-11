@@ -6,7 +6,7 @@ Předpokládáme sekvenci nezáporných celých čísel (0, 1, 2, ...). Sekvence
 
 Pro člověka je takový zápis obtížně čitelný, proto jej uvedeme ještě v obarvené podobě:
 
-<img></img>
+<img>![a](https://user-images.githubusercontent.com/47743251/224508474-7bc74fbc-b2a3-46ea-8b6c-714442ee95e7.png)</img>
 
 Úkolem programu je přečíst ze vstupu pozici (pořadové číslo od počátku) a určit, jaká číslice kterého čísla je na zadané pozici sekvence. Například:
 
@@ -16,7 +16,7 @@ Pro člověka je takový zápis obtížně čitelný, proto jej uvedeme ještě 
 
 Aby byl program univerzálnější, dokáže zadaný problém řešit pro různé číselné soustavy. Například pro zápis čísel ve dvojkové soustavě by sekvence vypadala takto:
 
-<img></img>
+<img>![b](https://user-images.githubusercontent.com/47743251/224508517-e058d83f-629b-4d92-80b7-52ee37809b2d.png)</img>
 
 Pro dvojkovou soustavu např. bude na pozici 14 číslice 0 čísla 110.
 
