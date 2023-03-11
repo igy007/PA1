@@ -1,3 +1,5 @@
+## Unikátní přístupy
+
 Úkolem je vytvořit program, který bude zpracovávat logy a počítat unikátní návštěvy.
 
 Předpokládáme že zaznamenáváme jednotlivé přístupy na WWW server. Zaznamenáváme uživatele, kteří přistupují - každý je označen jednoznačným identifikátorem. Identifikátor je celé číslo z uzavřeného intervalu 0 až 99999. Na vstupu jsou jednotlivé přístupy zadány v podobě příkazu + id, např.:
