@@ -2,11 +2,11 @@
 
 Předpokládáme že zaznamenáváme jednotlivé přístupy na WWW server. Zaznamenáváme uživatele, kteří přistupují - každý je označen jednoznačným identifikátorem. Identifikátor je celé číslo z uzavřeného intervalu 0 až 99999. Na vstupu jsou jednotlivé přístupy zadány v podobě příkazu + id, např.:
 
-+ 123
-+ 456
-+ 123
-+ 123
-+ 789
+\+ 123
+\+ 456
+\+ 123
+\+ 123
+\+ 789
 
 Zde na pozici 0, 2 a 3 jsou přístupy uživatele 123, na pozici 1 je přístup uživatele 456, na pozici 4 pak přístup uživatele 789.
 
@@ -16,8 +16,8 @@ Vstupem programu jsou přístupy a dotazy, ty mohou být libovolně promíchané
 
 Výstupem programu je reakce na každý vstup:
 
-    pro každý přístup program zobrazí, kolikátý přístup uživatele to je,
-    pro dotaz na počet unikátních přístupů program zobrazí informaci o počtu unikátních uživatelů v daném rozsahu / celkovém počtu přístupů ve vymezeném rozsahu.
+  -  pro každý přístup program zobrazí, kolikátý přístup uživatele to je,
+  -  pro dotaz na počet unikátních přístupů program zobrazí informaci o počtu unikátních uživatelů v daném rozsahu / celkovém počtu přístupů ve vymezeném rozsahu.
 
 Pokud je vstup neplatný, program to musí detekovat a zobrazit chybové hlášení. Chybové hlášení zobrazujte na standardní výstup (ne na chybový výstup). Za chybu při přidání přístupu považujte:
 
