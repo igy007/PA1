@@ -1,3 +1,5 @@
+## Nejprodávanější zboží
+
 Úkolem je vytvořit program, který bude zpracovávat provedené nákupy a analyzovat prodejnost zboží.
 
 Předpokládáme že zaznamenáváme jednotlivé prodeje zboží. Zajímá nás zejména to zboží, které se prodává nejvíce. Proto program bude umět vypočítat N druhů zboží, kterého se prodalo nejvíce kusů. Hodnota N (počet druhů zboží, které se prodává nejvíce) bude zadán na vstupu programu jako první údaj.
