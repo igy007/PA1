@@ -7,7 +7,8 @@ Práce programu je trochu ztížena tím, že látky se v místě švu musí př
 Při sešívání předpokládáme, že obdélníkové kusy látky skládáme vždy ve stejné orientaci v pravoúhlém rastru. Tedy obdélníky jsou buď všecnhy ponechané v zadané orientaci, nebo všechny otočené o 90 stupňů. Dále předpokládáme, že případné přebývající kusy látky nelze znovu využít.
 
 
-<img></img>
+<img>![index](https://user-images.githubusercontent.com/47743251/224508225-d52a90c8-2c23-45f0-b82d-a766069bd326.png)
+</img>
 
 
 Vstupem programu je zadání:
