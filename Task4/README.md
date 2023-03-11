@@ -2,11 +2,15 @@
 
 Předpokládáme že zaznamenáváme jednotlivé přístupy na WWW server. Zaznamenáváme uživatele, kteří přistupují - každý je označen jednoznačným identifikátorem. Identifikátor je celé číslo z uzavřeného intervalu 0 až 99999. Na vstupu jsou jednotlivé přístupy zadány v podobě příkazu + id, např.:
 
-\+ 123
-\+ 456
-\+ 123
-\+ 123
-\+ 789
+ \+ 123
+ 
+ \+ 456
+ 
+ \+ 123
+ 
+ \+ 123
+ 
+ \+ 789
 
 Zde na pozici 0, 2 a 3 jsou přístupy uživatele 123, na pozici 1 je přístup uživatele 456, na pozici 4 pak přístup uživatele 789.
 
