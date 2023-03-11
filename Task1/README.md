@@ -1,4 +1,4 @@
-##Plachty
+## Plachty
 
 Úkolem je vytvořit program, který bude počítat množství látky potřebné pro vyrobení plachty.
 
@@ -15,16 +15,16 @@ Při sešívání předpokládáme, že obdélníkové kusy látky skládáme v�
 
 Vstupem programu je zadání:
 
-    velikosti látky - šířka a výška, desetinná čísla,
-    velikosti požadované plachty - výška a šířka, desetinná čísla a
-    velikost překryvu v místě švu (desetinné číslo). Program se na tuto informaci dotazuje jen pokud je potřeba látku sešívat.
+  -  velikosti látky - šířka a výška, desetinná čísla,
+  -  velikosti požadované plachty - výška a šířka, desetinná čísla a
+  -  velikost překryvu v místě švu (desetinné číslo). Program se na tuto informaci dotazuje jen pokud je potřeba látku sešívat.
 
 Výstupem programu je nejmenší počet kusů látky potřebných pro výrobu plachty. Pro některé kombinace vstupů nelze plachtu vyrobit, program pak toto zobrazí (viz ukázka).
 
 Pokud je vstup neplatný, program to musí detekovat a zobrazit chybové hlášení. Chybové hlášení zobrazujte na standardní výstup (ne na chybový výstup). Za chybu považujte:
 
-    nečíselné zadání výšky, šířky nebo velikosti překryvu,
-    výška nebo šířka je záporná nebo nulová,
-    velikost překryvu je záporná (tedy připouští se nulový překryv),
-    chybějící zadání výšky, šířky,
-    chybějící zadání překryvu (v místě, kde je informace o překryvu nutná).
+ -   nečíselné zadání výšky, šířky nebo velikosti překryvu,
+ -   výška nebo šířka je záporná nebo nulová,
+ -   velikost překryvu je záporná (tedy připouští se nulový překryv),
+ -   chybějící zadání výšky, šířky,
+ -   chybějící zadání překryvu (v místě, kde je informace o překryvu nutná).
