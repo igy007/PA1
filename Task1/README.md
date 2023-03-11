@@ -1,3 +1,5 @@
+##Plachty
+
 Úkolem je vytvořit program, který bude počítat množství látky potřebné pro vyrobení plachty.
 
 Předpokládáme, že máme k dispozici látku pro výrobu plachet. Látka se dodává ve tvaru obdélníků v zadaném rozměru (výška, šířka). Dále dostaneme informaci o požadované velikosti plachty. Plachta je obdélníkového tvaru, zadaná je výška a šířka. Program určí, kolik kusů látky je potřeba sešít, aby vznikla plachta požadované velikosti.
