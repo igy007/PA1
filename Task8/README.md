@@ -1,3 +1,6 @@
+## Seznam zaměstnanců
+
+
 Úkolem je realizovat sadu funkcí pro práci se spojovými seznamy. Spojový seznam reprezentuje seznam pracovníků ve firmě. Pracovník je reprezentován jménem a odkazem na svého zástupce. S takovým seznamem pracovníků chceme provádět tyto operace: přidání pracovníka, kopírování seznamu a mazání seznamu.
 
 ------------
